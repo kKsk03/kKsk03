@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zj031210&include_all_commits=true&show_icons=true&hide_title=tru&hide_border=true" />
+
 👋 Hi
 - You can call me kKsk or Max Alonzo
 - A high school student
