@@ -8,7 +8,7 @@
 - A buildbot? Hahaha
 
 ## 💻 Working Environment
-![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📱 My device
