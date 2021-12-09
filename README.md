@@ -7,7 +7,7 @@
 
 💻 Working Environment
 - ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-- Ubuntu 20.4
+- ![Ubuntu 20.4](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 - iOS 15
 
 📱 My device
