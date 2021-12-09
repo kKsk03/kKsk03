@@ -16,3 +16,4 @@
 - Redmi K30 Pro
 - MSI GF65(RTX2060)
 - iPhone 5s(Standby phone hahaha)
+![Ubuntu](https://img.shields.io/badge/Ubuntu 20.04?style=flat-square&logo=ubuntu&logoColor=ffffff)
