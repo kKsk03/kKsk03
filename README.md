@@ -6,7 +6,7 @@
 - A buildbot? Hahaha
 
 💻 Working Environment
-- [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)]
+- [!Windows 11(https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)]
 - Ubuntu 20.4
 - iOS 15
 
