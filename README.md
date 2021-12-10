@@ -13,6 +13,6 @@
 - ![Android 12](https://img.shields.io/badge/Android-12-green?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📱 My device
-- Redmi K30 Pro
+- ![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 - MSI GF65(RTX2060)
 - iPhone 5s(Standby phone hahaha)
