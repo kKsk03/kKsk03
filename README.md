@@ -12,6 +12,9 @@
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-21.10-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Android 12](https://img.shields.io/badge/Android-12-green?style=for-the-badge&logo=android&logoColor=white)
 
+## Find Me?
+[![Bilibili](https://img.shields.io/badge/Genki_kKsk-07a3d7?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/126108468)
+
 ## 📱 My device
 - ![Redmi K30 Pro](https://img.shields.io/badge/Xiaomi-Redmi%20K30%20Pro-orange?style=for-the-badge&logo=xiaomi&logoColor=orange)
 - ![RTX2060](https://img.shields.io/badge/NVIDIA-RTX2060-green?style=for-the-badge&logo=nvidia&logoColor=brightgreen)
