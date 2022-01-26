@@ -15,5 +15,5 @@
 ## 📱 My device
 - ![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 - ![RTX2060](https://img.shields.io/badge/NVIDIA-RTX2060-green?style=for-the-badge&logo=nvidia&logoColor=brightgreen)
-- ![RTX2060](https://img.shields.io/badge/NVIDIA-RTX2060-green?style=for-the-badge&logo=msi&logoColor=brightgreen)
+- ![RTX2060](https://img.shields.io/badge/MSI-GF65-red?style=for-the-badge&logo=msi&logoColor=red)
 - iPhone 5s(Standby phone hahaha)
