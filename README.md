@@ -12,7 +12,7 @@
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-21.10-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Android 12](https://img.shields.io/badge/Android-12-green?style=for-the-badge&logo=android&logoColor=white)
 
-## Find Me?
+## 📞 Find Me?
 - [![Bilibili](https://img.shields.io/badge/Bilibili-Genki__kKsk-ffb8c6?style=for-the-badge&logo=bilibili&logoColor=ffb8c6)](https://space.bilibili.com/126108468)
 
 ## 📱 My device
