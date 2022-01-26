@@ -13,7 +13,6 @@
 - ![Android 12](https://img.shields.io/badge/Android-12-green?style=for-the-badge&logo=android&logoColor=white)
 
 ## Find Me?
-- ![Bilibili](https://img.shields.io/badge/Genki_kKsk-07a3d7?style=flat-square&logo=bilibili&logoColor=ffb8c6)](https://space.bilibili.com/126108468)
 - [![Bilibili](https://img.shields.io/badge/Bilibili-Genki__kKsk-ffb8c6?style=for-the-badge&logo=bilibili&logoColor=ffb8c6)](https://space.bilibili.com/126108468)
 
 ## 📱 My device
