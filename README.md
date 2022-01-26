@@ -13,7 +13,7 @@
 - ![Android 12](https://img.shields.io/badge/Android-12-green?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📱 My device
-- ![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+- ![Redmi K30 Pro](https://img.shields.io/badge/Redmi-K30%20Pro-orange?style=for-the-badge&logo=xiaomi&logoColor=orange)
 - ![RTX2060](https://img.shields.io/badge/NVIDIA-RTX2060-green?style=for-the-badge&logo=nvidia&logoColor=brightgreen)
 - ![RTX2060](https://img.shields.io/badge/MSI-GF65-red?style=for-the-badge&logo=msi&logoColor=red)
 - iPhone 5s(Standby phone hahaha)
