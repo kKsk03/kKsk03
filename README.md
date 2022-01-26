@@ -17,3 +17,4 @@
 - ![RTX2060](https://img.shields.io/badge/NVIDIA-RTX2060-green?style=for-the-badge&logo=nvidia&logoColor=brightgreen)
 - ![GF65](https://img.shields.io/badge/MSI-GF65-red?style=for-the-badge&logo=msi&logoColor=red)
 - ![iPad 2020](https://img.shields.io/badge/Apple-iPad%202020-lightgrey?style=for-the-badge&logo=apple&logoColor=lightgrey)
+- ![iPad Mini 1](https://img.shields.io/badgeApple-iPad%20Mini%201-lightgrey?style=for-the-badge&logo=apple&logoColor=lightgrey)
