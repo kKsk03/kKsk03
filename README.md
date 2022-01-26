@@ -14,6 +14,7 @@
 
 ## Find Me?
 - ![Bilibili](https://img.shields.io/badge/Genki_kKsk-07a3d7?style=flat-square&logo=bilibili&logoColor=ffb8c6)](https://space.bilibili.com/126108468)
+- ![Bilibili](https://img.shields.io/badge/Bilibili-Genki__kKsk-ffb8c6?style=for-the-badge&logo=bilibili&logoColor=ffb8c6)(https://space.bilibili.com/126108468)
 
 ## 📱 My device
 - ![Redmi K30 Pro](https://img.shields.io/badge/Xiaomi-Redmi%20K30%20Pro-orange?style=for-the-badge&logo=xiaomi&logoColor=orange)
