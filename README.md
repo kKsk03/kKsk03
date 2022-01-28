@@ -22,5 +22,5 @@
 - ![iPad 2020](https://img.shields.io/badge/Apple-iPad%202020-lightgrey?style=for-the-badge&logo=apple&logoColor=lightgrey)
 - ![iPad Mini 1](https://img.shields.io/badge/Apple-iPad%20Mini%201-lightgrey?style=for-the-badge&logo=apple&logoColor=lightgrey)
 
-## My website
-- [![github.io](https://img.shields.io/badge/kKsk's-Blog-fdf6e3?style=for-the-badge&logo=blog&logoColor=fdf6e3)](https://zj031210.github.io/)
+## 🌐 My website
+- [![github.io](https://img.shields.io/badge/kKsk's-Blog-fdf6e3?style=for-the-badge&logo=blogger&logoColor=fdf6e3)](https://zj031210.github.io/)
