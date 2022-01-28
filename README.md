@@ -21,3 +21,6 @@
 - ![GF65](https://img.shields.io/badge/MSI-GF65-red?style=for-the-badge&logo=msi&logoColor=red)
 - ![iPad 2020](https://img.shields.io/badge/Apple-iPad%202020-lightgrey?style=for-the-badge&logo=apple&logoColor=lightgrey)
 - ![iPad Mini 1](https://img.shields.io/badge/Apple-iPad%20Mini%201-lightgrey?style=for-the-badge&logo=apple&logoColor=lightgrey)
+
+## My website
+- [![github.io](https://img.shields.io/badge/kKsk's-Blog-fdf6e3?style=for-the-badge&logo=bilibili&logoColor=fdf6e3)](https://zj031210.github.io/)
