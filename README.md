@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zj031210&theme=blue-green" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zj031210&theme=solarized-light&show_icons=true)
 
 ## 👋 Hello!
 - You can call me kKsk or Max Alonzo
