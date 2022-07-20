@@ -2,11 +2,13 @@
 
 ## 👋 Hello!
 - You can call me kKsk or Max Alonzo
-- A high school student
+- A University Student in GZXHU（GuangZhou XinHua University）
+
 
 ## 📁 My work
 - A buildbot? Hahaha
 - Working for SA-MP(GTA-SA) Install Tool
+- Studying software engineering
 
 ## 💻 Working Environment
 - ![Windows 11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange?style=for-the-badge&logo=ubuntu&logoColor=white) ![Android 12L](https://img.shields.io/badge/Android-12L-green?style=for-the-badge&logo=android&logoColor=white)
