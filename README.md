@@ -22,4 +22,4 @@
 ## 🌐 My website
 - [![github.io](https://img.shields.io/badge/kKsk's-Blog-fdf6e3?style=for-the-badge&logo=blogger&logoColor=fdf6e3)](https://zj031210.github.io/)
 
-![Republic of Gamers Badge](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?logo=republicofgamers&logoColor=fff&style=for-the-badge)
+![Republic of Gamers Badge](https://img.shields.io/badge/Republic%20of%20Gamers&Strix-G17-FF0029?logo=republicofgamers&logoColor=fff&style=for-the-badge)
