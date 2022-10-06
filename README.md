@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zj031210&theme=moltack&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zj031210&theme=solarized-lightk&show_icons=true)
 
 ## 👋 Hello!
 - You can call me kKsk or Max Alonzo
