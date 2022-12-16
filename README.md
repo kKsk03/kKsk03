@@ -11,7 +11,7 @@
 - Studying software engineering
 
 ## 💻 Working Environment
-- ![Windows 11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange?style=for-the-badge&logo=ubuntu&logoColor=white) ![Android 12L](https://img.shields.io/badge/Android-12L-green?style=for-the-badge&logo=android&logoColor=white)
+- ![Windows 11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange?style=for-the-badge&logo=ubuntu&logoColor=white) ![Android 13](https://img.shields.io/badge/Android-13-green?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-15-white?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📞 Find Me?
