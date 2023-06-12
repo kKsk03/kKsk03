@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Zj031210&show_icons=true&theme=onedark&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Zj031210&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-</picture>
-</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zj031210&theme=neon&show_icons=true)
 
 ## 👋 Hello!
 - You can call me kKsk or Max Alonzo
