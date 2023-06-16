@@ -12,8 +12,8 @@
 
 ## 💻 Working Environment
 - ![Windows 11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows&logoColor=white)
-- ![Android 12](https://img.shields.io/badge/Android-12.1-green?style=for-the-badge&logo=android&logoColor=white)
-- ![iOS](https://img.shields.io/badge/iOS-16.4.1-white?style=for-the-badge&logo=apple&logoColor=white)
+- ![Android 13](https://img.shields.io/badge/Android-12.1-green?style=for-the-badge&logo=android&logoColor=white)
+- ![iOS](https://img.shields.io/badge/iOS-16.5-white?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📞 Find Me?
 - [![Bilibili](https://img.shields.io/badge/Bilibili-Alonzo__Max-ffb8c6?style=for-the-badge&logo=bilibili&logoColor=ffb8c6)](https://space.bilibili.com/126108468)
