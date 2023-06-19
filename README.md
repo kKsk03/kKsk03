@@ -1,13 +1,13 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zj031210&theme=neon&show_icons=true)
 
 ## 👋 Hello!
-- You can call me kKsk or Max Alonzo
-- A University Student in GZXHU（GuangZhou XinHua University）
+- You can call me `kKsk` or `Max Alonzo`
+- A University Student in *GZXHU（GuangZhou XinHua University）*
 
 
 ## 📁 My work
-- Working for *Assetto Corsa* track Mods
-- Working for Wangan Midnight Maximum Tune player's software (Make playing easier and simpler)
+- Working for `Assetto Corsa` track Mods
+- Working for `Wangan Midnight Maximum Tune` player's software (Make playing easier and simpler)
 - Studying software engineering
 
 ## 💻 Working Environment
