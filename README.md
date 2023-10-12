@@ -8,10 +8,10 @@
 
 ## Blog
 
-[kKsk's Blog](https://kksk-blog.site/)
+<a href="https://kksk-blog.site/" target="_blank">kKsk's Blog</a>
 
 ## Organization's Website
 
-[Season RC Wiki](https://shimokitazawa.cn/)
+<a href="https://shimokitazawa.cn/" target="_blank">Season RC Wiki</a>
 
-[Race Speed Time](https://racespeedtime.github.io/docs/)
+<a href="https://racespeedtime.github.io/docs/" target="_blank">Race Speed Time</a>
