@@ -4,7 +4,7 @@
 
 ![Metrics](github-metrics.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=kKsk03&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=kKsk03&theme=ambient_gradient&show_icons=true)
 
 ## Blog
 
