@@ -12,6 +12,6 @@
 
 ## Organization's Website
 
-<a href="https://shimokitazawa.cn/" target="_blank">Season RC Wiki</a>
+<a href="https://docs.xenon-rs.tech/" target="_blank">Xenon Docs</a>
 
 <a href="https://racespeedtime.github.io/docs/" target="_blank">Race Speed Time</a>
