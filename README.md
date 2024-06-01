@@ -1,7 +1,5 @@
 # Hello! kKsk Here!
 
-![Zj031210](https://count.getloli.com/get/@kKsk03)
-
 ![Metrics](github-metrics.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=kKsk03&theme=ambient_gradient&show_icons=true)
