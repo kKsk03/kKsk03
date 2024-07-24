@@ -3,7 +3,7 @@
 <p>
 还在学习呢......
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" style="width: 80%;" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ![Metrics](github-metrics.svg)
 
