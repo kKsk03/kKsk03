@@ -3,10 +3,10 @@
 <p>
 还在学习呢......
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img alt="Metrics" src="github-metrics.svg" style="width: 50%;" />
-    <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" style="width: 100%;" />
-</div>
+<p align="center">
+    <img src="github-metrics.svg" alt="Metrics" style="width: 50%;" />
+    <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="GIF" style="width: 80%;" />
+</p>
 
 ### 🛠️ 使用的语言和工具：
 
