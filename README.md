@@ -3,10 +3,7 @@
 <p>
 还在学习呢......
 
-<p align="center">
-    <img src="github-metrics.svg" alt="Metrics"/>
-    <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="GIF" style="width: 80%;" />
-</p>
+<img src="github-metrics.svg" alt="Metrics"/>
 
 ### 🛠️ 使用的语言和工具：
 
