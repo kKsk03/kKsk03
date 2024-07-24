@@ -3,9 +3,10 @@
 <p>
 还在学习呢......
 
-<img align="right" alt="GIF" style="width: 50%;" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-![Metrics](github-metrics.svg)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img alt="Metrics" src="github-metrics.svg" />
+    <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+</div>
 
 ### 🛠️ 使用的语言和工具：
 
