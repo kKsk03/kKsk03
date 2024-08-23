@@ -1,8 +1,14 @@
 ### 你好 👋, 我是[kKsk03](https://github.com/kKsk03) 👨‍💻
 
-<p>
 还在学习呢......
 </br>
+<details>
+  <summary>最近做的事情</summary>
+  
+  - 一些前后端开发
+  - W6W & W5P 服务器重实现（W6P When?）
+  
+</details>
 
 <img src="github-metrics.svg" alt="Metrics"/>
 
@@ -36,7 +42,7 @@
 
 <a href="https://kksk03.fun/" target="_blank">kKsk's Blog</a>
 
-## Organization's Website
+### Organization's Website
 
 <a href="https://xenon-rs.tech/" target="_blank">XRS Website</a>
 
