@@ -6,7 +6,8 @@
   <summary>最近做的事情</summary>
   
   - 一些前后端开发
-  - W6W & W5P 服务器重实现（W6P When?）
+  - 学习 & 研究一些热门的框架
+  - W6W & W5P & WM4 服务器重实现（W6P When?）
   
 </details>
 
