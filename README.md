@@ -44,6 +44,6 @@
 
 ### Organization's Website
 
-<a href="https://xenon-rs.tech/" target="_blank">XRS Website</a>
+<a href="https://xrs.kksk03.site/" target="_blank">XRS Website</a>
 
 <a href="https://racespeedtime.github.io/docs/" target="_blank">Race Speed Time</a>
