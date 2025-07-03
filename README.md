@@ -40,7 +40,7 @@
 
 ### Blog
 
-<a href="https://kksk03.fun/" target="_blank">kKsk's Blog</a>
+<a href="https://kksk03.site/" target="_blank">kKsk's Blog</a>
 
 ### Organization's Website
 
