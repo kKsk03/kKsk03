@@ -18,7 +18,7 @@ namespace selfIntro {
         "iPhone 13",
         "iPad Air (5th Generation, 2022, M1)",
         "Xiaomi Redmi K30 Pro",
-        "ASUS ROG Strix G17 (2022)",
+        "ASUS Republic of Gamers (ROG) Strix G17 (2022, G713RW)",
     ];
 
     export const contact: Record<string, string> = {
