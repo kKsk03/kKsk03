@@ -10,8 +10,7 @@ namespace selfIntro {
     ];
 
     export const doing: string[] = [
-        "Brainstorming for my graduation thesis",
-        "Leading the development of a private project.",
+        "Finding a work :)"
     ];
 
     export const device: string[] = [
